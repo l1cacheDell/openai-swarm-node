@@ -10,7 +10,7 @@
 You can install the Swarm.js SDK via npm:
 
 ```bash
-npm install openai-swarm-node
+npm install ssh+https://github.com/l1cacheDell/openai-swarm-node.git
 ```
 
 ## What is Swarm.js?
